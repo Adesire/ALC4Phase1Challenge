@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="9dp"
         android:gravity="center"
-        android:text="Badejo Adesire"
+        android:text="@string/badejo_adesire"
         android:textColor="@android:color/black"
         android:textSize="30sp"
         android:textStyle="bold"
@@ -67,7 +67,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:gravity="start"
-                    android:text="Track:"
+                    android:text="@string/track"
                     android:textColor="@android:color/black"
                     style="@style/TextStyle" />
 
@@ -75,7 +75,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="5"
-                    android:text="Android"
+                    android:text="@string/android"
                     android:textColor="@android:color/black"
                     style="@style/TextStyle" />
             </TableRow>
@@ -90,7 +90,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:gravity="start"
-                    android:text="Country:"
+                    android:text="@string/country"
                     android:textColor="@android:color/black"
                     style="@style/TextStyle" />
 
@@ -98,7 +98,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="5"
-                    android:text="Nigeria"
+                    android:text="@string/nigeria"
                     android:textColor="@android:color/black"
                     style="@style/TextStyle" />
             </TableRow>
@@ -113,7 +113,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:gravity="start"
-                    android:text="Email:"
+                    android:text="@string/email"
                     android:textColor="@android:color/black"
                     style="@style/TextStyle" />
 
@@ -121,7 +121,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="5"
-                    android:text="desilere@gmail.com"
+                    android:text="@string/desilere_gmail_com"
                     android:textColor="@android:color/black"
                     style="@style/TextStyle"/>
             </TableRow>
@@ -136,7 +136,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:gravity="start"
-                    android:text="Phone number:"
+                    android:text="@string/phone_number"
                     android:textColor="@android:color/black"
                     style="@style/TextStyle"/>
 
@@ -144,7 +144,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="5"
-                    android:text="08058996445"
+                    android:text="@string/_08058996445"
                     android:textColor="@android:color/black"
                     style="@style/TextStyle" />
             </TableRow>
@@ -159,7 +159,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:gravity="start"
-                    android:text="Slack Username:"
+                    android:text="@string/slack_username"
                     android:textColor="@android:color/black"
                     style="@style/TextStyle" />
 

@@ -3,4 +3,17 @@
     <string name="adesire">\@Adesire</string>
     <string name="about">About ALC</string>
     <string name="profile">My Profile</string>
+    <string name="badejo_adesire">Badejo Adesire</string>
+    <string name="track">Track:</string>
+    <string name="android">Android</string>
+    <string name="country">Country:</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="email">Email:</string>
+    <string name="desilere_gmail_com">desilere@gmail.com</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="_08058996445">08058996445</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
 </resources>
